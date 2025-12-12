@@ -41,7 +41,7 @@
     },
     "darwin-aarch64-dmg": {
       "signature": "",
-      "url": "https://github.com/bluestarburst/Plutonium-src/releases/download/v0.0.13/Plutonium_0.0.13_aarch64.dmg"
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.13/Plutonium_0.0.13_aarch64.dmg"
     }
   }
 }
