@@ -38,6 +38,10 @@
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2dIRWlrZk16SXpwOFhzdkMvMHJ1a0NyK0Z4ejZkVGpEUEZWNEthL01HU1ZmTnpMbDdJM2JBUVc4bkkvb05jMXlGeWRhbUkwaGQ2MWRPZ005R2ViM2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NTI2ODEyCWZpbGU6UGx1dG9uaXVtXzAuMC4xM194NjQtc2V0dXAuZXhlCkpQdlNTRmxRT3ZTK3hDWEVNdXpKK0puL3hGd25VUTFKREtQSjhmeFM1cm5wWFcrMS9rSlB6cERwbitka0FPZDhHZkdhQzcrQmNKMFRQYlRaeDVlMEFRPT0K",
       "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.13/Plutonium_0.0.13_x64-setup.exe"
+    },
+    "darwin-aarch64-dmg": {
+      "signature": "",
+      "url": "https://github.com/bluestarburst/Plutonium-src/releases/download/v0.0.13/Plutonium_0.0.13_aarch64.dmg"
     }
   }
 }
