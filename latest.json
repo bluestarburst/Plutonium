@@ -1,47 +1,47 @@
 {
-  "version": "0.0.18",
+  "version": "0.0.20",
   "notes": "Automated release from main.",
-  "pub_date": "2026-01-25T05:13:21.493Z",
+  "pub_date": "2026-01-31T00:38:05.531Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2s5R0ROMVkvU0ZVbmlWajFuQ3MwVXFBVXcrMlVWUGZ6OEs3TmhURS9OSmVTSFVZQWYxRGM5SlJJVFRDbHZtZXBKdXA3T3BCQ0swMGI1eVhRRXBFSXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE2OTk5CWZpbGU6UGx1dG9uaXVtLmFwcC50YXIuZ3oKdTZMQXlremxlUkNCVmNrQnI5anlybVQ0QWNQU1YwK3VzcVJOVGQvb0Z2U3ZFUnpkbW5JUEhaeU1oSW1uVDErQzVZOGhaWEQwOGlaY0wzbkdsVmwwQUE9PQo=",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2pObHJ5VlVSVG5nV2JGSjlhSnZVdkkwSzB5aW82Q0VySXNwSXpWR2gzMFlXR2NIRm9OYWVBMzh6ZzE2Qk1OU2RWd3lHTENDR013NjQxc3k5OXBhTkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE4NTYxCWZpbGU6UGx1dG9uaXVtLmFwcC50YXIuZ3oKVFlKQi9WNUgrbEVRNW5QZFRKQzh1dXc4c3lDVGZLNGxlS2ppUHQzdGdwN1RzYnpTUTNEOUl3Q3ZaU2VnMWZqdkY0ZjhHQ25aNDlPRk4vMjBzLzVIQXc9PQo=",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2s5R0ROMVkvU0ZVbmlWajFuQ3MwVXFBVXcrMlVWUGZ6OEs3TmhURS9OSmVTSFVZQWYxRGM5SlJJVFRDbHZtZXBKdXA3T3BCQ0swMGI1eVhRRXBFSXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE2OTk5CWZpbGU6UGx1dG9uaXVtLmFwcC50YXIuZ3oKdTZMQXlremxlUkNCVmNrQnI5anlybVQ0QWNQU1YwK3VzcVJOVGQvb0Z2U3ZFUnpkbW5JUEhaeU1oSW1uVDErQzVZOGhaWEQwOGlaY0wzbkdsVmwwQUE9PQo=",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2pObHJ5VlVSVG5nV2JGSjlhSnZVdkkwSzB5aW82Q0VySXNwSXpWR2gzMFlXR2NIRm9OYWVBMzh6ZzE2Qk1OU2RWd3lHTENDR013NjQxc3k5OXBhTkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE4NTYxCWZpbGU6UGx1dG9uaXVtLmFwcC50YXIuZ3oKVFlKQi9WNUgrbEVRNW5QZFRKQzh1dXc4c3lDVGZLNGxlS2ppUHQzdGdwN1RzYnpTUTNEOUl3Q3ZaU2VnMWZqdkY0ZjhHQ25aNDlPRk4vMjBzLzVIQXc9PQo=",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3ZzWVhQMkVsdnVicmhlMWxMUGRtMUNNRUZhUkY2MllTNUFQTWY0emthM0c2dkV4NWkvdHppajF2Z0w0QW42Y3lOYmxmcVlLeTdWZ3E4bU1nWGpuQWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3NzAxCWZpbGU6UGx1dG9uaXVtXzAuMC4xOF9hbWQ2NC5BcHBJbWFnZQpzdm80TklBei8zY1BPdXJBRXd3ZndsVmo0bXBKWDljbUF4YWxXREh5K3ZXMnRZTjZtVHkzUktWdk43MHJneXFzOXN0MWlJZWIvYkZiQlNFSmgwaTZCQT09Cg==",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3RTL2VnYWZpSm55RisxeVF2VHZmcjZUUTJFelcyUVRHOFdDLytWWDFsQVptY2JsdkxOU3hBYnVDUU9XV0tIdk9OZlNFVXJINkNPVlA2NGo5MEJFZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5NDExCWZpbGU6UGx1dG9uaXVtXzAuMC4yMF9hbWQ2NC5BcHBJbWFnZQpwVlhkVEFRMFV4ZkJvcGRDRVh0NlRCcE9LdHBramdZRTh3Uk5OdmdqRUN1b2FIOTNLTXVnejgvcDlrbWdFeFBqSmdGNU1NT1V3YlZQdmtLSFhBWUpEZz09Cg==",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3ZzWVhQMkVsdnVicmhlMWxMUGRtMUNNRUZhUkY2MllTNUFQTWY0emthM0c2dkV4NWkvdHppajF2Z0w0QW42Y3lOYmxmcVlLeTdWZ3E4bU1nWGpuQWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3NzAxCWZpbGU6UGx1dG9uaXVtXzAuMC4xOF9hbWQ2NC5BcHBJbWFnZQpzdm80TklBei8zY1BPdXJBRXd3ZndsVmo0bXBKWDljbUF4YWxXREh5K3ZXMnRZTjZtVHkzUktWdk43MHJneXFzOXN0MWlJZWIvYkZiQlNFSmgwaTZCQT09Cg==",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3RTL2VnYWZpSm55RisxeVF2VHZmcjZUUTJFelcyUVRHOFdDLytWWDFsQVptY2JsdkxOU3hBYnVDUU9XV0tIdk9OZlNFVXJINkNPVlA2NGo5MEJFZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5NDExCWZpbGU6UGx1dG9uaXVtXzAuMC4yMF9hbWQ2NC5BcHBJbWFnZQpwVlhkVEFRMFV4ZkJvcGRDRVh0NlRCcE9LdHBramdZRTh3Uk5OdmdqRUN1b2FIOTNLTXVnejgvcDlrbWdFeFBqSmdGNU1NT1V3YlZQdmtLSFhBWUpEZz09Cg==",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd28xeVFHQ3NOL3Y3d2lLNUJEZy9JZXFHaUZQYmlRZjlESmQwWGdQTGZSNGpheTM1ZElObUZJS3R3RU4ydjNUTWNZTnJITUx3MHFTZmhuQjNuaVVyQ0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3NzAxCWZpbGU6UGx1dG9uaXVtXzAuMC4xOF9hbWQ2NC5kZWIKZTN5NkNPQTJ6dzVTM0EvUStPekZDQmxrNTN6cisxbDBtYXRmaWFwN2ZxNEswdCtKb3JGcGZnNDBmL0NsOU5JRFlLazhHZGViakVRSFZWVjZVbVFqQ0E9PQo=",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2hoWjNkVXhoYmQ4RWs4emIzc3Zrc012R09ieG1YVEt3SHZaTTUrOXFObjVwelIzODFBRytkeUtPVlNRZlN6T1BvTlYrMVRGMHdDaGo0eGtJaXpUcFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5NDExCWZpbGU6UGx1dG9uaXVtXzAuMC4yMF9hbWQ2NC5kZWIKRWsycHlNSDRDUUxyZzJveGx5WVp2MnlVUTVDbU1oZ1pjUU1CV3UxUmtZTk84WDFveXRjdUtSclZ0OHBBVnpnVnc3aWpWTTc5SU9IUE5RWEtsM3ZXQVE9PQo=",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3JLZmhrSG92WHh1TXhudWR2US9QY0NqN044SUxOeDd3NDIxZXdrTFhrT1hFWUJwajdkakVYVTV2VFlzYnJvbWl6T3J4Zi9KcFNzT3cyN0xFRGxrNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3NzAxCWZpbGU6UGx1dG9uaXVtLTAuMC4xOC0xLng4Nl82NC5ycG0KSloxaFlYS1M0VHQ2R25CTTJRa2hKc0czQzJIbmh5ZTdYREhHNlRRWThJcVBzS3FiMHRsOFp0UUFIQ292d1BFK2FMQjA2UFNnRWRQSTdaY0JYVEg2QVE9PQo=",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium-0.0.18-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2cya1MvMGx2RTFueFYzSjhlQTRBOXdTUmo3b0xMUFFRMGdXdnJkM091Mk1aZEdQd25zUE5Bam9PMWxzT0R1WmZvWG41TUd6QXhQcnluZWh0QVpjRFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5NDExCWZpbGU6UGx1dG9uaXVtLTAuMC4yMC0xLng4Nl82NC5ycG0KNUhpbUY0bUhMV3NZMlFxWmZqUnJ3cXZabm4wZzBBRDlRb0NhMzRrblNFUk40MGlIVlNNRjBaSWpta2d4MEJESWxVTTBmWDZCYndzaVV6Q3pEeCtOQXc9PQo=",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium-0.0.20-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2h3djNGalp6MW1LVS9neThNNjhaSnBoQVdIejY5RnpIQXJ2WEF6VVF6REN2bXRSY2drV1RFVlk3bnJrdHZubWZoN0lWQmJodnlyNUdJSUxoWnBzUUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3OTkwCWZpbGU6UGx1dG9uaXVtXzAuMC4xOF94NjRfZW4tVVMubXNpCjNJVjNsaHY0Rnl6VjY0UDMyQUtMTjdWek1FWm5GL3pHWmJQOGpkNkQ2N0VZd0dERkE3aVAzbW43Q3hPcGdEa0FIWWN0NXVJZEtCd0pQUEl3TTkzQ0F3PT0K",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3FPeTEzKzR6YzY3RkxHMWdGdVVJaDBCckx6bzZCMDR3dldHSWxFMDhEMjZueHlzaElqNHJiM0VYSDdsUnZsemEySGtmK1RueVVyRkJjdGQ5L3MrNmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5ODc1CWZpbGU6UGx1dG9uaXVtXzAuMC4yMF94NjRfZW4tVVMubXNpCitTU2lOOTZvSVdSbmRUR3A0UFplR3p5VDdaOUFaaW1wNGhkZUN1RzZJdEdEZVZQbWRQRU9lMmJQeGxub2IzWnk3U0dHUXJ3eUZESkFwRWhxaGpjUUJ3PT0K",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2h3djNGalp6MW1LVS9neThNNjhaSnBoQVdIejY5RnpIQXJ2WEF6VVF6REN2bXRSY2drV1RFVlk3bnJrdHZubWZoN0lWQmJodnlyNUdJSUxoWnBzUUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3OTkwCWZpbGU6UGx1dG9uaXVtXzAuMC4xOF94NjRfZW4tVVMubXNpCjNJVjNsaHY0Rnl6VjY0UDMyQUtMTjdWek1FWm5GL3pHWmJQOGpkNkQ2N0VZd0dERkE3aVAzbW43Q3hPcGdEa0FIWWN0NXVJZEtCd0pQUEl3TTkzQ0F3PT0K",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd3FPeTEzKzR6YzY3RkxHMWdGdVVJaDBCckx6bzZCMDR3dldHSWxFMDhEMjZueHlzaElqNHJiM0VYSDdsUnZsemEySGtmK1RueVVyRkJjdGQ5L3MrNmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5ODc1CWZpbGU6UGx1dG9uaXVtXzAuMC4yMF94NjRfZW4tVVMubXNpCitTU2lOOTZvSVdSbmRUR3A0UFplR3p5VDdaOUFaaW1wNGhkZUN1RzZJdEdEZVZQbWRQRU9lMmJQeGxub2IzWnk3U0dHUXJ3eUZESkFwRWhxaGpjUUJ3PT0K",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd2xicDlpKzAyaXFWbTIvY0JjQmhjeVBHT0NlN01Ua3hRZ2toZ1FnSmYxTm9DVXFZYWQ3MSt2K0Vab3lFb2p0WTBkRVZZYmZOOXA5cXdLajZRQ0tTd3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MzE3OTkwCWZpbGU6UGx1dG9uaXVtXzAuMC4xOF94NjQtc2V0dXAuZXhlCkVObWlielM4bU5iczlQSjhobGNLN3MydWk3M2RaNjlLeDRKQVJNbWppQ1ZrSWx5UHQyWnlLNVdNc0tBMU1KSE8vM25hOUE1dE96OTJZYWpDZDJjMEFBPT0K",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdU94WnM3enpKd252WkF3TVRLTmM1bmY2VnNPcm9vKys0MGE1UXhWcTBua3l0b01UNEdiZXY0WFU4d0lVZmJnZlBmd0Ivc1p1TmlZYnJwYlVvQzdRcy9lRlZHRkR3SVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODE5ODc1CWZpbGU6UGx1dG9uaXVtXzAuMC4yMF94NjQtc2V0dXAuZXhlCkhzTE1uYkp3YXI3TVU3dVBBNDhqZlk1SjhnNWpRNHJnRFB5Nkg4RDYyMldkTGxTaThBTVRvaVAvUFJLZmpLTVExNGlGSmd1UEdwdG9ldGlJR21ocEN3PT0K",
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_x64-setup.exe"
     },
     "darwin-aarch64-dmg": {
       "signature": "",
-      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.18/Plutonium_0.0.18_aarch64.dmg"
+      "url": "https://github.com/bluestarburst/Plutonium/releases/download/v0.0.20/Plutonium_0.0.20_aarch64.dmg"
     }
   }
 }
